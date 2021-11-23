@@ -61,7 +61,7 @@ const commandsDB = JSON.parse(fs.readFileSync('./database/commands.json'))
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 
-cr = 'KirBotz'
+cr = 'XENOZ BOT'
 owner = setting.OwnerNumber
 botname = setting.BotName
 lolkey = setting.LolKey
